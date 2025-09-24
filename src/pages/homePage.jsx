@@ -5,8 +5,6 @@ import '../styles/style.css'
 export function HomePage(){
   return (
     <main id='principalContainer'>
-     
-      aboutPage
        <ControlledCarousel/>
     </main>
   )
