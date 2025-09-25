@@ -1,0 +1,15 @@
+.Carrusel{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+/* .item-carrusel{
+  
+  display: flex;
+  justify-content: center;
+  
+} */
+.img-carrousel{
+  padding: 2em;
+  height: 30em;
+}
